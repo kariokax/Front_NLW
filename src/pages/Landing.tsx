@@ -9,7 +9,7 @@ function Landing(){
   return(
     <div id="page-landing">
      <div className="content-wrapper"> 
-          <img src={logoImg} alt="Happy"/>
+          <img src={logoImg} alt="Happysr"/>
 
           <main>
             <h1>Leve felicidade para o mundo</h1>
@@ -27,6 +27,6 @@ function Landing(){
      </div>
     </div>
   );
-}
+  }
 
 export default Landing;
